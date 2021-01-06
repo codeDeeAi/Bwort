@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>lists</title>
+  </head>
+  <body>
+    <!-- An Unordered List -->
+    <ul>
+      <li>spaghetti</li>
+      <li>bacon</li>
+      <li>garlic</li>
+      <li>parmesan</li>
+      <li>egss</li>
+    </ul>
+<!-- An Ordered List  -->
+    <ol>
+      <li>in a large pot of boiling water, cook the pasta </li>
+      <li>in a small bowl, whisk the parmesan and eggs together; set aside</li>
+      <li>add bacon and cook</li>
+      <li>add the parmesan and eggs wih spice</li>
+      <li>serve garnished with parsley</li>
+    </ol>
+  </body>
+</html>
